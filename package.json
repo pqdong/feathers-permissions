@@ -55,7 +55,7 @@
   "devDependencies": {
     "@feathersjs/feathers": "^4.5.2",
     "@types/node": "^13.11.1",
-    "dtslint": "^3.4.1",
+    "dtslint": "^3.6.2",
     "feathers-memory": "^4.1.0",
     "istanbul": "^1.1.0-alpha.1",
     "mocha": "^7.1.1",
